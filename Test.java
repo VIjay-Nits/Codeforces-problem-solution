@@ -3,7 +3,7 @@ public class Test {
       
         public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        //Set<Integer> set=new HashSet<Integer>();
+        
         int n=sc.nextInt();
         int k=sc.nextInt();
         int count=0;
