@@ -21,7 +21,7 @@ public class Test {
             if(a[j]>k)break;
             count++;
         }
-            System.out.println(count);
+         System.out.println(count);
         
         
     }
